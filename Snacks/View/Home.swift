@@ -13,7 +13,7 @@ struct Home : View {
                 VStack {
                     // Header
                     HStack  {
-                        Text("Order From The Best Of **Snacks**")
+                        Text("Order The **Best Snacks**")
                             .font(.system(size:30))
                             .padding(.trailing)
                         
@@ -32,7 +32,7 @@ struct Home : View {
                     
                     // Collection View
                     HStack {
-                        Text("Choco **Collections**")
+                        Text("Shop **Best Sellers**")
                             .font(.system(size: 24))
                         
                         Spacer()

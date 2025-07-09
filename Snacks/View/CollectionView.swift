@@ -10,7 +10,7 @@ struct CollectionView: View {
             ScrollView {
                 VStack {
                     HStack {
-                        Text("Order From The Best Of **Snacks**")
+                        Text("Order The **Best Snacks**")
                             .font(.system(size: 30))
                             .padding(.trailing)
                         
